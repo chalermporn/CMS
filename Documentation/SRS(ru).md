@@ -28,7 +28,6 @@ CMS - Control Managment System (система управления содерж
 
 # 2.Общее описание
    ## 2.1 Перспектива продукта 
- ![](https://ibb.co/NZsj6D9)
  ![](https://i.ibb.co/Rz90pr3/dfd.png)
 
    ## 2.2 Функционал продукта
