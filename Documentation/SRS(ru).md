@@ -43,10 +43,9 @@ CMS - Control Managment System (система управления содерж
 
   ## 2.4 Операционная среда
   *Операционная система:* UNIX-подобные, Семейство Microsoft Windows, Операционные системы, совместимые с Microsoft Windows, MacOS.
+  *Браузеры:* Google Chrome, Mozila FireFox, Safari.
 
   ## 2.5 Инструментарий проектирования
-    браузер все, кроме эксплорера. Везде корректно, но в хроме лучше всего
-
-    Используемые языки программирования: JavaScript, EsmaScript.
-    Языки разметки: HTML, CSS.
-    Фреймворки: NodeJS, VueJS, Express, Bootstrap.
+  *Используемые языки программирования:* JavaScript, EsmaScript.
+  *Языки разметки:* HTML, CSS.
+  *Фреймворки:* NodeJS, VueJS, Express, Bootstrap.
