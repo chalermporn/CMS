@@ -88,6 +88,15 @@ CMS - Control Managment System (система управления содерж
   
   Окно авторизации.
   ![SignIn](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/SignIn.png)  
+  
+  Выбор страницы для редактирования.
+  ![Choose](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/ChoosePage.png)
+  
+  Предпросмотр выбранной страницы.
+  ![Preview](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/preview.png)
+  
+  Редактор страницы.
+  ![Edit](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/Edit.png)
     
   ## 3.2 Программный интерфейс
 
