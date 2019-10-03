@@ -23,3 +23,27 @@
 
 # Glossary
 *Control Managment System (hereinafter referred to as CMS)* is a web page content management system. It is a set of scripts for creating and editing a site.
+
+
+# 1. Introduction
+   ## 1.1 Purpose
+The main purpose of this Software Requirement Specification is to describe the purpose and scope of the application / system being designed. The definitions and agreements adopted within the framework of this project are also given and a detailed overview of the functionality of the CMS web application (Content Managment System) is given. This document is intended for a team of specialists who will implement and support this system.
+
+  ## 1.2 Agreement adopted in the document
+CMS - Control Managment System (site content management system).
+
+ ## 1.3 Project scope
+The developed CMS web application provides a set of tools for creating and deleting sections of the site, as well as for editing it, which will be useful both for business purposes and for creating a personal blog / site.
+
+ ## 1.4 Analogs of the project under development
+Unlike the analogues below in this application, all changes can be made in real time, that is, the page will be edited directly during its display.
+All existing analogues provide similar functionality for the ability to edit the template content and create your own design:
+
+- *[uCoz](https://www.ucoz.ru/)* - this is a free CMS and hosting for sites created using it. UCoz modules can be used both in a single bundle to create a fully functional website, and individually, for example, as a blog platform, web forum. Currently, the system has created more than a million sites.
+Disadvantages: partially paid functionality, the difficulty of transferring the site to another CMS.
+
+- *[1C-Bitrix](https://www.bitrix24.by/)* - The system is focused on corporate sites, information and reference portals, social networks, online stores, media sites, suitable for creating other types of web resources .
+Disadvantages: a rather slow and resource-demanding system.
+
+- *[Joomla](https://www.joomla.org/)* - content management system (CMS), written in PHP and JavaScript, using MySQL as a storage database. An important feature of the system is a minimum set of tools during initial installation, which is supplemented as necessary. This reduces clutter of the administrative panel with unnecessary elements, and also reduces the load on the server and saves space on the hosting.
+Disadvantages: There is no full editing of tables.
