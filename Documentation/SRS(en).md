@@ -1,8 +1,8 @@
 # Contents
-[Glossary] (# Glossary)
+[Glossary] (#Glossary)
 1. [Introduction] (# 1Introduction)
     1.1 [Purpose] (# 11-Purpose)
-    1.2 [Agreement adopted in the document] (# 12-Agreement adopted in the document)
+    1.2 [Document Conventions] (# 12-Document-Conventions)
     1.3 [Project Scope] (# 13-Project-Scope)
     1.4 [Analogs of a developing project] (# 14-Analogs of a developing project)
 2. [General description] (# 2-General description)
