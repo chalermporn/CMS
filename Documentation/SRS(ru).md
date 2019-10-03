@@ -81,7 +81,7 @@ CMS - Control Managment System (система управления содерж
 
 # 3. Требования к интерфейсу
   ## 3.1 Пользовательский интерфейс
-  ![Start](Mockups/start.png)
+  ![Start](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/start.png?raw=true)
     
   ## 3.2 Программный интерфейс
 
