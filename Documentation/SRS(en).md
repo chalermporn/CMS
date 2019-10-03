@@ -25,14 +25,14 @@
 *Control Managment System (hereinafter referred to as CMS)* is a web page content management system. It is a set of scripts for creating and editing a site.
 
 
-# 1. Introduction
-   ## 1.1 Purpose
+# 1. Introduction  
+   ## 1.1 Purpose  
 The main purpose of this Software Requirement Specification is to describe the purpose and scope of the application / system being designed. The definitions and agreements adopted within the framework of this project are also given and a detailed overview of the functionality of the CMS web application (Content Managment System) is given. This document is intended for a team of specialists who will implement and support this system.
 
-  ## 1.2 Agreement adopted in the document
+  ## 1.2 Agreement adopted in the document  
 CMS - Control Managment System (site content management system).
 
- ## 1.3 Project scope
+ ## 1.3 Project scope  
 The developed CMS web application provides a set of tools for creating and deleting sections of the site, as well as for editing it, which will be useful both for business purposes and for creating a personal blog / site.
 
  ## 1.4 Analogs of the project under development
