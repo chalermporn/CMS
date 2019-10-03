@@ -26,7 +26,7 @@
 
 
 # 1. Introduction  
-   ## 1.1 Purpose  
+## 1.1 Purpose  
 The main purpose of this Software Requirement Specification is to describe the purpose and scope of the application / system being designed. The definitions and agreements adopted within the framework of this project are also given and a detailed overview of the functionality of the CMS web application (Content Managment System) is given. This document is intended for a team of specialists who will implement and support this system.
 
   ## 1.2 Agreement adopted in the document  
