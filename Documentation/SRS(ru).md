@@ -72,7 +72,7 @@ CMS - Control Managment System (система управления содерж
   ## 2.5 Инструментарий проектирования
   *Используемые языки программирования:* JavaScript, EcmaScript.
   
-  *Языки разметки:* HTML, CSS.
+  *Языки разметки:* HTML5, CSS.
   
   *Фреймворки:* NodeJS, VueJS, Express, Bootstrap.
   
