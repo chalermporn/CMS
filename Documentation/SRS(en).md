@@ -5,13 +5,13 @@
     1.2 [Document Conventions](#12-Document-Conventions)  
     1.3 [Product Scope](#13-Product-Scope)  
     1.4 [Analogs](#14-Analogs)  
-2. [General description] (# 2-General description)
-    2.1 [Product Vision] (# 21-Product Vision)
-    2.2 [Product Functionality] (# 22-Product Functionality)
-    2.3 [User Classification] (# 23-User Classification)
-    2.4 [Operating Environment] (# 24-Operating Environment)
-    2.5 [Design Toolkit] (# 25-Design Toolkit)
-    2.6 [Estimated Dependencies] (# 26-Estimated-Dependencies)
+2. [Overall description](#2-Overall-description)  
+    2.1 [Product Perspective](#21-Product-Perspective)    
+    2.2 [Product Functions](#22-Product-Functions)  
+    2.3 [User Classification](#23-User-Classification)  
+    2.4 [Operating Environment](#24-Operating-Environment)  
+    2.5 [Design Toolkit](#25-Design-Toolkit)  
+    2.6 [Estimated Dependencies](#26-Estimated-Dependencies)  
 3. [Interface Requirements] (# 3-Interface-Requirements)
     3.1 [User Interface] (# 31-User Interface)
     3.2 [Software Interface] (# 32-Software Interface)
@@ -22,4 +22,4 @@
     5.2 [Quality Attributes] (# 52-Quality Attributes)
 
 # Glossary
-* Control Managment System (hereinafter referred to as CMS) * is a web page content management system. It is a set of scripts (scripts) for creating, editing a site.
+*Control Managment System (hereinafter referred to as CMS)* is a web page content management system. It is a set of scripts for creating and editing a site.
