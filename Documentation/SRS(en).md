@@ -16,7 +16,7 @@
     3.1 [User Interface](#31-User-Interface)  
     3.2 [Software Interface](#-32-Software-Interface)  
     3.3 [Communication Interface](#33-Communication-Interface)
-4. [Functional features of the system] (# 4-Functional-features-systems)
+4. [System Features](#4-System-features)  
 5. [Other non-functional features] (# 5-Other-non-functional features)
     5.1 [Security Requirements] (# 51-Security Requirements)
     5.2 [Quality Attributes] (# 52-Quality Attributes)
