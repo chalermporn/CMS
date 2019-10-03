@@ -1,5 +1,5 @@
 # Contents
-[Glossary] (#Glossary)  
+[Glossary](#Glossary)  
 1. [Introduction](#1Introduction)  
     1.1 [Purpose](#11-Purpose)  
     1.2 [Document Conventions](#12-Document-Conventions)  
