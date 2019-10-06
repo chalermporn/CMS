@@ -107,7 +107,7 @@ Disadvantages: There is no full editing of tables.
 ## 3.3 Communication Interface
   The interaction between clients and the server will be carried out using the http protocol.
   
-# 4. Functional features of the system
+# 4. System Features
 This section lists the main functions implemented in this system:
 1. *Security:*
    - authorization function with login, password;
@@ -116,15 +116,15 @@ This section lists the main functions implemented in this system:
    - selection of a template for editing (home page, main page);
    - editing the page based on the selected template;
    - saving page;
-3. * Graphical part*
+3. *Graphical part*
    - a family of functions for creating ui-components.
 
 # 5. Other non-functional features
-   ## 5.1 Security Requirements
+## 5.1 Security Requirements
    This application should ensure the prevention of unauthorized access to information and (or) its transfer to persons who do not have the right to access information. In order to avoid unauthorized access, the application will organize authorization, after which a user session is created.
    
-  ## 5.2 Quality attributes
+## 5.2 Quality attributes
 
-- Ease of use (implemented site navigation);
-- Correctness (all declared product functionality is fulfilled);
-- Security (before starting work, the system will require a login / password).
+- Ease of use (implemented site navigation);  
+- Correctness (all declared product functionality is fulfilled);  
+- Security (before starting work, the system will require a login / password). 
