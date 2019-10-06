@@ -109,14 +109,14 @@ Disadvantages: There is no full editing of tables.
   
 # 4. System Features
 This section lists the main functions implemented in this system:
-1. *Security:*
+1. *Security:*  
    - authorization function with login, password;
-2. *Content Management:*
-   - creating a page;
-   - selection of a template for editing (home page, main page);
-   - editing the page based on the selected template;
+2. *Content Management:*  
+   - creating a page;  
+   - selection of a template for editing (home page, main page);  
+   - editing the page based on the selected template;  
    - saving page;
-3. *Graphical part*
+3. *Graphical part*  
    - a family of functions for creating ui-components.
 
 # 5. Other non-functional features
