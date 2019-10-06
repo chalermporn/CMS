@@ -66,7 +66,7 @@ CMS - Control Managment System (система управления содерж
    - штатный пользователь - создание собственного сайта, инфопродукта.
 
   ## 2.4 Операционная среда
-  *Операционная система:* UNIX-подобные, Семейство Microsoft Windows, Операционные системы, совместимые с Microsoft Windows, MacOS.
+  *Операционная система:* UNIX-подобные, Семейство Microsoft Windows, Операционные системы, совместимые с Microsoft Windows, MacOS.  
   *Браузеры:* Google Chrome, Mozilla FireFox, Safari.
 
   ## 2.5 Инструментарий проектирования
