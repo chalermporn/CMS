@@ -75,3 +75,51 @@ Disadvantages: There is no full editing of tables.
   
 ## 2.6 Estimated Dependencies
   The application works only with a stable Internet connection and the presence of one of the browsers from item [2.4](#24-Operating-Environment).
+
+# 3. Interface requirements
+## 3.1 User Interface
+  The graphical user interface is presented as mockup illustrations.
+  
+  The start window of the system.
+  ![Start](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/start.png?raw=true)
+  
+  Login window.
+  ![SignIn](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/SignIn.png)
+  
+  template selection page.  
+  ![Choose](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/ChoosePage.png)
+  
+  Preview the selected page.
+  ![Preview](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/preview.png)
+  
+  Page editor.
+  ![Edit](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/Edit.png)
+    
+## 3.2 Software interface
+  The application is based on a client-server architecture. Approximate system interactions are shown in the diagram below:
+  ![Functionality](https://i.ibb.co/6D6LDQq/functionality.png)
+
+## 3.3 Communication Interface
+  The interaction between clients and the server will be carried out using the http protocol.
+  
+# 4. Functional features of the system
+This section lists the main functions implemented in this system:
+1. * Security: *
+   - authorization function by login, password;
+2. * Content Management: *
+   - creating a page;
+   - selection of a template for editing (main menu, contents, main page);
+   - editing the page based on the selected template;
+   - save page;
+3. * Graphic component (client): *
+   - a family of functions for creating ui-components.
+
+# 5. Other non-functional features
+   ## 5.1 Security Requirements
+   This application should ensure the prevention of unauthorized access to information and (or) its transfer to persons who do not have the right to access information. In order to avoid unauthorized access, the application will organize authorization, after which a user session is created.
+   
+  ## 5.2 Quality attributes
+
+- Ease of use (implemented site navigation);
+- Correctness (all declared product functionality is fulfilled);
+- Security (before starting work, the system will require a login / password).
