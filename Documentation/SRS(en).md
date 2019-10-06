@@ -29,13 +29,13 @@
 ## 1.1 Purpose  
 The main goal of the Software Requirement Specification is to describe the purpose and scope of the application/system being designed. The definitions, document conventions adopted within the scope of this project  and a detailed overview of the functionality of this web application are also given. This document is intended for a team of specialists who will implement and support this system.
 
-  ## 1.2 Document Conventions
+## 1.2 Document Conventions
 CMS - Control Managment System (site content management system).
 
- ## 1.3 Product scope  
+## 1.3 Product scope  
 CMS provides a set of tools for creating and deleting sections of the site, as well as for editing it, which will be useful both for business purposes and for creating a personal blog / site.
 
- ## 1.4 Analogs
+## 1.4 Analogs
 Unlike the analogues below, in this application all changes can be made in real time, it means that the page will be edited directly during its display.
 All existing analogues provide similar functionality for editing the template content and creating your own design:
 
@@ -48,11 +48,10 @@ Disadvantages: a rather slow and resource-demanding system.
 - *[Joomla](https://www.joomla.org/)* - content management system (CMS), written in PHP and JavaScript, using MySQL as a storage database. An important feature of the system is a minimum set of tools during initial installation, which is supplemented as necessary. This reduces cluttering of the administrative panel with unnecessary elements, and also reduces the load on the server and saves space on the hosting.  
 Disadvantages: There is no full editing of tables.
 
-
 # 2. General description
-   ## 2.1 Product Vision
+   ## 2.1 Product Perspective
    This diagram shows the main functional components of this application:
- ! [Flow Diagram] (https://i.ibb.co/Dtp3Dx8/dfd.png)
+ ![Flow Diagram](https://i.ibb.co/Dtp3Dx8/dfd.png)
 
    ## 2.2 Product Functionality
    The system allows you to create or delete sections of the site and edit the contents of the proposed template page yourself without involving a specialist. This application provides a choice of several editable template pages:
