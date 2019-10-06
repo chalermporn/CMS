@@ -80,23 +80,23 @@ Disadvantages: There is no full editing of tables.
 ## 3.1 User Interface
   The graphical user interface is presented as mockup illustrations.
   
-  The start window of the system.
+  The start window of the system.  
   ![Start](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/start.png?raw=true)
   
-  Login window.
+  Login window.  
   ![SignIn](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/SignIn.png)
   
   template selection page.  
   ![Choose](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/ChoosePage.png)
   
-  Preview the selected page.
+  Preview the selected page.  
   ![Preview](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/preview.png)
   
-  Page editor.
+  Page editor.  
   ![Edit](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/Edit.png)
     
-## 3.2 Software interface
-  The application is based on a client-server architecture. Approximate system interactions are shown in the diagram below:
+## 3.2 Software Interface
+  The application is based on a client-server architecture. Approximate system interactions are shown in the diagram below:  
   ![Functionality](https://i.ibb.co/6D6LDQq/functionality.png)
 
 ## 3.3 Communication Interface
