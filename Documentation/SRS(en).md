@@ -69,11 +69,9 @@ Disadvantages: There is no full editing of tables.
   *Browsers:* Google Chrome, Mozilla FireFox, Safari.
 
 ## 2.5 Design Toolkit
-  *Used programming languages:* EcmaScript 6.  
-  
-  *Markup languages:* HTML5, CSS3.  
-  
-  *Frameworks:* NodeJS 12.10, VueJS 2, Express 4.14, Bootstrap 4.3.  
+*Used programming languages:* EcmaScript 6.  
+*Markup languages:* HTML5, CSS3.  
+*Frameworks:* NodeJS 12.10, VueJS 2, Express 4.14, Bootstrap 4.3.  
   
 ## 2.6 Estimated Dependencies
-  The application works only with a stable Internet connection and the presence of one of the browsers from item [2.4](#24-Operating Environment).
+  The application works only with a stable Internet connection and the presence of one of the browsers from item [2.4](#24-Operating-Environment).
