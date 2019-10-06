@@ -55,8 +55,8 @@ Disadvantages: There is no full editing of tables.
 
 ## 2.2 Product Functions
    The system allows you to create or delete sections of the site and edit the contents of the proposed template page yourself without involving a specialist. This application provides a choice of several editable template pages:  
-        - the main menu of the site;  
-        - navigation page / content;  
+        - the home page;  
+        - navigation section;  
         - the main page of the site / blog, etc.  
 
 ## 2.3 User Classification  
@@ -65,7 +65,7 @@ Disadvantages: There is no full editing of tables.
    - a regular user - creating your own website, information product.  
 
 ## 2.4 Operating Environment
-  *Operating system:* UNIX-like, Microsoft Windows family, Operating systems compatible with Microsoft Windows, MacOS.  
+  *Operating system:* UNIX, Microsoft Windows, Operating systems compatible with Microsoft Windows, MacOS.  
   *Browsers:* Google Chrome, Mozilla FireFox, Safari.
 
 ## 2.5 Design Toolkit
