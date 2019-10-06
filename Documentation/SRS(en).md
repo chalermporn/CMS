@@ -92,11 +92,11 @@ Disadvantages: There is no full editing of tables.
   ![Choose](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/ChoosePage.png)
   
   
-  Preview the selected page.  
+  Preview the selected page.
   ![Preview](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/preview.png)
   
   
-  Page editor.  
+  Page editor.
   ![Edit](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/Edit.png)
     
     
@@ -109,14 +109,14 @@ Disadvantages: There is no full editing of tables.
   
 # 4. Functional features of the system
 This section lists the main functions implemented in this system:
-1. * Security: *
-   - authorization function by login, password;
-2. * Content Management: *
+1. *Security:*
+   - authorization function with login, password;
+2. *Content Management:*
    - creating a page;
-   - selection of a template for editing (main menu, contents, main page);
+   - selection of a template for editing (home page, main page);
    - editing the page based on the selected template;
-   - save page;
-3. * Graphic component (client): *
+   - saving page;
+3. * Graphical part*
    - a family of functions for creating ui-components.
 
 # 5. Other non-functional features
