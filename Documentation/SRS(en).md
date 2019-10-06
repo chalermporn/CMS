@@ -48,32 +48,32 @@ Disadvantages: a rather slow and resource-demanding system.
 - *[Joomla](https://www.joomla.org/)* - content management system (CMS), written in PHP and JavaScript, using MySQL as a storage database. An important feature of the system is a minimum set of tools during initial installation, which is supplemented as necessary. This reduces cluttering of the administrative panel with unnecessary elements, and also reduces the load on the server and saves space on the hosting.  
 Disadvantages: There is no full editing of tables.
 
-# 2. General description
-   ## 2.1 Product Perspective
+# 2. Overall description
+## 2.1 Product Perspective
    This diagram shows the main functional components of this application:
  ![Flow Diagram](https://i.ibb.co/Dtp3Dx8/dfd.png)
 
-   ## 2.2 Product Functionality
+## 2.2 Product Functions
    The system allows you to create or delete sections of the site and edit the contents of the proposed template page yourself without involving a specialist. This application provides a choice of several editable template pages:
         - the main menu of the site;
         - navigation page / content;
         - the main page of the site / blog, etc.
 
-  ## 2.3 User Classification
+## 2.3 User Classification
    - business sphere (companies, individual entrepreneurs, etc.) - creation of corporate websites of the company, online stores;
    - marketing in social networks - blogs, advertising sites;
    - a regular user - creating your own website, information product.
 
-  ## 2.4 Operating Environment
-  * Operating system: * UNIX-like, Microsoft Windows family, Operating systems compatible with Microsoft Windows, MacOS.
-  * Browsers: * Google Chrome, Mozilla FireFox, Safari.
+## 2.4 Operating Environment
+  *Operating system:* UNIX-like, Microsoft Windows family, Operating systems compatible with Microsoft Windows, MacOS.
+  *Browsers:* Google Chrome, Mozilla FireFox, Safari.
 
-  ## 2.5 Design Toolkit
-  * Used programming languages: * EcmaScript 6.
+## 2.5 Design Toolkit
+  *Used programming languages:* EcmaScript 6.
   
-  * Markup languages: * HTML5, CSS3.
+  *Markup languages:* HTML5, CSS3.
   
-  * Frameworks: * NodeJS 12.10, VueJS 2, Express 4.14, Bootstrap 4.3.
+  *Frameworks:* NodeJS 12.10, VueJS 2, Express 4.14, Bootstrap 4.3.
   
-  ## 2.6 Estimated Dependencies
-  The application works only with a stable Internet connection and the presence of one of the browsers from item [2.4] (# 24-Operating Environment).
+## 2.6 Estimated Dependencies
+  The application works only with a stable Internet connection and the presence of one of the browsers from item [2.4](#24-Operating Environment).
