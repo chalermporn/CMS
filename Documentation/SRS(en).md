@@ -116,8 +116,6 @@ This section lists the main functions implemented in this system:
    - selection of a template for editing (home page, main page);  
    - editing the page based on the selected template;  
    - saving page;
-3. *Graphical part*  
-   - a family of functions for creating ui-components.
 
 # 5. Other non-functional features
 ## 5.1 Security Requirements
