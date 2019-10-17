@@ -112,10 +112,8 @@ This section lists the main functions implemented in this system:
 1. *Security:*  
    - authorization function with login, password;
 2. *Content Management:*  
-   - creating a page;  
-   - selection of a template for editing (home page, main page);  
+   - creating a page;    
    - editing the page based on the selected template;  
-   - saving page;
 
 # 5. Other non-functional features
 ## 5.1 Security Requirements
