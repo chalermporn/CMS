@@ -7,7 +7,5 @@
 ### Mockups:  
 - [View project mockups](https://github.com/AnnaGavrilowa/CMS/tree/master/Mockups)
 
-### System design:
-
-- [SD(UML)](https://github.com/AnnaGavrilowa/CMS/blob/master/Documentation/SD(UML).md)
+### System design:  
 - [Diagrams](https://github.com/AnnaGavrilowa/CMS/tree/master/Documentation/UML-Diagrams)
