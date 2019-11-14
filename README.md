@@ -1,4 +1,6 @@
 # CMS
+# The final version of the project is available here.
+[CTICMS.COM](http://cticms.com/#/)
 
 ### Documentation:
 - [SRS(ru)](Documentation/SRS(ru).md)
@@ -9,3 +11,4 @@
 
 ### System design:  
 - [Diagrams](https://github.com/AnnaGavrilowa/CMS/tree/master/Documentation/UML-Diagrams)
+
