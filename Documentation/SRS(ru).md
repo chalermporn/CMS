@@ -84,7 +84,7 @@ CMS - Control Managment System (система управления содерж
   Графический интерфейс пользователя представлен в виде mockup иллюстраций.  
   
   Стартовое окно системы.  
-  ![Start](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/start.png?raw=true)
+  ![Start](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/home.png)
   
   Окно авторизации.
   ![SignIn](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/SignIn.png)  
