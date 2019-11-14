@@ -1,6 +1,6 @@
 # CMS
 # The final version of the project is available here.
-[CTICMS.COM](http://cticms.com/#/)
+[CTICMS.COM](http://cticms.com/#/){:target="_blank"}
 
 ### Documentation:
 - [SRS(ru)](Documentation/SRS(ru).md)
