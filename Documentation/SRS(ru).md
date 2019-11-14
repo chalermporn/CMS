@@ -67,7 +67,7 @@ CMS - Control Managment System (система управления содерж
 
   ## 2.4 Операционная среда
   *Операционная система:* UNIX-подобные, Семейство Microsoft Windows, Операционные системы, совместимые с Microsoft Windows, MacOS.  
-  *Браузеры:* Google Chrome, Safari.
+  *Браузеры:* Google Chrome, Safari (последние версии)
 
   ## 2.5 Инструментарий проектирования
   *Используемые языки программирования:* EcmaScript 6.
