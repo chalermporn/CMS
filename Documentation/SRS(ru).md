@@ -89,7 +89,7 @@ CMS - Control Managment System (система управления содерж
   Окно авторизации.
   ![SignIn](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/authorization.png)  
   
-  Выбор действия.
+  Выбор действия.  
   ![Choose](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/chooseOption.png)
     
   Редактор страницы.
