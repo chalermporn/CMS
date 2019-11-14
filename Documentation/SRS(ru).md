@@ -92,8 +92,8 @@ CMS - Control Managment System (система управления содерж
   Выбор действия.  
   ![Choose](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/chooseOption.png)
     
-  Редактор страницы.
-  ![Edit](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/Edit.png)
+  Создание и редактирование страницы.
+  ![Edit](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/create.png)
     
   ## 3.2 Программный интерфейс  
   Приложение основано на клиент-серверной архитектуре. Примерное взаимодейтсвие системы отображено на схеме ниже:  
