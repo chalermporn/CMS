@@ -2,6 +2,10 @@
 # The final version of the project is available here.
 [CTICMS.COM](http://cticms.com/#/)
 
+Login Information:  
+Username: admin@admin.com  
+Password: bsuir2020!
+
 ### Documentation:
 - [SRS(ru)](Documentation/SRS(ru).md)
 - [SRS(en)](Documentation/SRS(en).md)
