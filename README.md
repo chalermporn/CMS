@@ -12,3 +12,6 @@
 ### System design:  
 - [Diagrams](https://github.com/AnnaGavrilowa/CMS/tree/master/Documentation/UML-Diagrams)
 
+### Testing:  
+- [Test Plan](https://github.com/AnnaGavrilowa/CMS/blob/master/Tests/Plan.md)  
+- [Test Report](https://github.com/AnnaGavrilowa/CMS/blob/master/Tests/Report.md)
