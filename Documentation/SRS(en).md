@@ -66,7 +66,7 @@ Disadvantages: There is no full editing of tables.
 
 ## 2.4 Operating Environment
   *Operating system:* UNIX, Microsoft Windows, Operating systems compatible with Microsoft Windows, MacOS.  
-  *Browsers:* Google Chrome, Mozilla FireFox, Safari.
+  *Browsers:* Google Chrome, Safari (latest versions).
 
 ## 2.5 Design Toolkit
 *Used programming languages:* EcmaScript 6.  
@@ -81,24 +81,20 @@ Disadvantages: There is no full editing of tables.
   The graphical user interface is presented as mockup illustrations.
   
   The start window of the system.  
-  ![Start](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/start.png?raw=true)
+  ![Start](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/home.png)
   
   
   Login window.  
-  ![SignIn](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/SignIn.png)
+  ![SignIn](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/authorization.png)
   
   
-  template selection page.  
-  ![Choose](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/ChoosePage.png)
+  Action selection.    
+  ![Choose](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/chooseOption.png)
   
   
-  Preview the selected page.
-  ![Preview](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/preview.png)
+  Create and edit page.
+  ![Edit](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/create.png)
   
-  
-  Page editor.
-  ![Edit](https://github.com/AnnaGavrilowa/CMS/blob/master/Mockups/Edit.png)
-    
     
 ## 3.2 Software Interface
   The application is based on a client-server architecture. Approximate system interactions are shown in the diagram below:  
@@ -121,6 +117,5 @@ This section lists the main functions implemented in this system:
    
 ## 5.2 Quality attributes
 
-- Ease of use (implemented site navigation);  
 - Correctness (all declared product functionality is fulfilled);  
 - Security (before starting work, the system will require a login / password). 
